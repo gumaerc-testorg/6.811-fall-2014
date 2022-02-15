@@ -2,8 +2,10 @@
 content_type: resource
 description: Subtitle file for a video of an instructor interview on assessing student's
   learning.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-811-principles-and-practice-of-assistive-technology-fall-2014/08c7193331f9df878115e078f9622a3a_ZjLZ_P8svSY.srt
+file: /media/courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/08c7193331f9df878115e078f9622a3a_ZjLZ_P8svSY.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 08c71933-31f9-df87-8115-e078f9622a3a

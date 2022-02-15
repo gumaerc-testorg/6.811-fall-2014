@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: dfaf2dab-a9b3-0da0-8de2-5636cc6d1702
 ---
@@ -22,7 +25,7 @@ ASSIGNMENT TOPICS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[2nd Month Deliverables (PDF)]({{< baseurl >}}/resources/mit6_811f14_octdeliverbles)
+[2{{< sup "nd" >}} Month Deliverables (PDF)]({{< baseurl >}}/resources/mit6_811f14_octdeliverbles)
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -2,7 +2,10 @@
 content_type: page
 is_media_gallery: true
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 93006bd3-39e1-f7b8-55d5-4958641b37da
 title: Student Insights
 uid: 0f23b97e-2d88-8c3f-34df-21498de5a271
