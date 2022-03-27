@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: dfaf2dab-a9b3-0da0-8de2-5636cc6d1702
 resourcetype: Document
 title: "Mid\xAD-Semester Presentation Instructions"
 uid: 36540d57-6890-9893-ab43-66ed5603e17e

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: dfaf2dab-a9b3-0da0-8de2-5636cc6d1702
 resourcetype: Document
 title: 'Class Blog: Reflections on Assistive Technology and Disability'
 uid: 43034396-f64a-436c-681f-989b6f86ab16

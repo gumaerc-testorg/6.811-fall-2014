@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: dfaf2dab-a9b3-0da0-8de2-5636cc6d1702
 resourcetype: Document
 title: Review of October Course Requirements and Deliverables
 uid: 98b814fb-2262-56df-1867-4ee5c42c88e5

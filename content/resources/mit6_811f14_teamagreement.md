@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: dfaf2dab-a9b3-0da0-8de2-5636cc6d1702
 resourcetype: Document
 title: Team Agreement
 uid: 8ec59a48-6ebc-c2de-244f-efd2029d7d02

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 2269be47-17d4-6269-e259-e7cb81d7af43
 resourcetype: Document
 title: Electronic Access Lab (Part 2) Screen Reader
 uid: a3603f67-be1d-26bd-7b8c-465f9731207f

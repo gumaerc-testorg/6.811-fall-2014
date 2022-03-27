@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2569b1b4-1a4a-4335-1643-b293b3967e1f
 resourcetype: Document
 title: Project Matching and Logistics
 uid: 79b46ff0-0c7c-2afe-7c92-7dcd6eff07f4

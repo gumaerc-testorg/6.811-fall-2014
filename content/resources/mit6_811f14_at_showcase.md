@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 2269be47-17d4-6269-e259-e7cb81d7af43
 resourcetype: Document
 title: AT Showcase Worksheet
 uid: 0aea4ab7-96ca-7a84-3a5b-fdac00d3d59e

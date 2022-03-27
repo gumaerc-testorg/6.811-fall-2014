@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 2269be47-17d4-6269-e259-e7cb81d7af43
 resourcetype: Document
 title: 'Electronic Access Lab (Part 1) Station E: Low Vision'
 uid: 1c8c6cdf-3def-5469-8fe0-a6a75a075860

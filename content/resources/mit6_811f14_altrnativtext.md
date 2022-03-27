@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 2269be47-17d4-6269-e259-e7cb81d7af43
 resourcetype: Document
 title: 'Electronic Access Lab (Part 1) Station B: Alternative Text Input'
 uid: d194d53e-323d-76f9-de8e-97ca996e4db5

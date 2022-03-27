@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 2269be47-17d4-6269-e259-e7cb81d7af43
 resourcetype: Document
 title: Campus Accessibility Lab Exercise
 uid: 4038d295-cdf7-8505-4706-5b8c5a1028c8

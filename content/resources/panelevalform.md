@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 93006bd3-39e1-f7b8-55d5-4958641b37da
 resourcetype: Document
 title: Mid-Semester Panel Evaluation Form
 uid: 38258428-b96a-5ce3-e4a6-9f9f8f26d801

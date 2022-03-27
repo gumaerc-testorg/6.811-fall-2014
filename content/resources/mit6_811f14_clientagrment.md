@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: dfaf2dab-a9b3-0da0-8de2-5636cc6d1702
 resourcetype: Document
 title: Team-Client Expectations and Agreement
 uid: f4a87aa5-299c-6a17-f7ed-1c9cacbe0878

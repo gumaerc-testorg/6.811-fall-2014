@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 2269be47-17d4-6269-e259-e7cb81d7af43
 resourcetype: Document
 title: 'Electronic Access Lab (Part 1) Station D: Cognitive Disability'
 uid: 8faa48b0-0c03-13a7-e042-722bfc2c9d37

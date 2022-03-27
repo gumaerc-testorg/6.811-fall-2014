@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2569b1b4-1a4a-4335-1643-b293b3967e1f
 resourcetype: Document
 title: User-Centered Design
 uid: 2e883e07-36aa-ca8c-5fb1-bde6bc531400
