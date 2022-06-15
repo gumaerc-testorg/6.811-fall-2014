@@ -1,11 +1,13 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of course topics, lectures,
+  labs, and key dates for projects.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: b74ff70e-440a-a298-254e-5c9945a55864
 ---
-
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
