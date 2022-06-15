@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In these videos, William Li and Grace Teo describe various aspects of
+  how they taught 6.811 Principles and Practice of Assistive Technology.
 is_media_gallery: true
 layout: instructor_insights
 learning_resource_types: []

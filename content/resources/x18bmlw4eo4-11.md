@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/0d4cf2782bcdfec695d2aebea2e3e922_x18bMLW4eO4.pdf
+file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/0d4cf2782bcdfec695d2aebea2e3e922_x18bMLW4eO4.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

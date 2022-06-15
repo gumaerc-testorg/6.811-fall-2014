@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lab exercise on alternative text input methods for people with disabilities.
-file: /media/courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/d194d53e323d76f9de8e97ca996e4db5_MIT6_811F14_AltrnativText.pdf
+file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/d194d53e323d76f9de8e97ca996e4db5_MIT6_811F14_AltrnativText.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Document
 title: 'Electronic Access Lab (Part 1) Station B: Alternative Text Input'
 uid: d194d53e-323d-76f9-de8e-97ca996e4db5
 ---
+Lab exercise on alternative text input methods for people with disabilities.
+
