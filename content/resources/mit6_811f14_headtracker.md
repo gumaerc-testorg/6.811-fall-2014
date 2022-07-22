@@ -5,6 +5,7 @@ file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/9
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Electronic Access Lab (Part 1) Station A: Head Tracker/Eye Tracker'
 uid: 9c691180-3d6d-bdb5-71c8-a994c7b88371
 ---
 Lab exercise on head tracking and eye tracking assistive technologies.
-

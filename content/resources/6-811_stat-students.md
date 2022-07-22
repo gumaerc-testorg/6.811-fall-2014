@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: 6.811 Stat Students
 uid: 3468a587-ba27-1a4f-5ced-6d072b33c6c6
 ---
 Image showing the number of students enrolled in the course.
-

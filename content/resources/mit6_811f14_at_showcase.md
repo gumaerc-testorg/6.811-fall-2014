@@ -5,6 +5,7 @@ file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/0
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: AT Showcase Worksheet
 uid: 0aea4ab7-96ca-7a84-3a5b-fdac00d3d59e
 ---
 Worksheet for providing feedback on a showcase of assistive technology.
-

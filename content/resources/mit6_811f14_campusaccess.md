@@ -7,6 +7,7 @@ file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/4
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Campus Accessibility Lab Exercise
 uid: 4038d295-cdf7-8505-4706-5b8c5a1028c8
 ---
 Lab exercise to survey the state of wheelchair accessibility on and around the MIT campus to understand the challenges and realities associated with using a wheeled mobility device.
-

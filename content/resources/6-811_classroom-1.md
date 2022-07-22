@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: 6.811 Classroom 1
 uid: e4826680-b2c1-fa90-2103-395c8965f4e8
 ---
 Photograph of the classroom used for lecture sessions of the course.
-

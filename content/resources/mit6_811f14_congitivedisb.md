@@ -6,6 +6,7 @@ file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/8
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Electronic Access Lab (Part 1) Station D: Cognitive Disability'
 uid: 8faa48b0-0c03-13a7-e042-722bfc2c9d37
 ---
 Lab exercise on what it is like to live with cognitive disabilities affecting focus, attention, and language.
-

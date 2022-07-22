@@ -6,6 +6,7 @@ file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Introduction
 uid: 11494623-dc05-af5f-759a-1c118487453a
 ---
 Lecture presentation with an introduction to the course and information on goals, logistics, and course projects.
-

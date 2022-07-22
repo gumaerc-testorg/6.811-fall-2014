@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -18,4 +19,3 @@ title: 6.811 Students Still
 uid: 3d2f2a66-0c1c-af5f-ca7d-829f7e9e7a9f
 ---
 Still image from a video in which students share insights about their experiences in 6.811 Principles and Practice of Assistive Technology.
-

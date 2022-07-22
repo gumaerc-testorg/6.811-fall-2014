@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -19,4 +20,3 @@ title: Educators Thumb
 uid: 59e88a32-e917-cdcf-bad9-aa4a18ce99ed
 ---
 Still image from a video in which the course instructors introduce themselves and share how their interests and experiences led them to become involved with the course.
-

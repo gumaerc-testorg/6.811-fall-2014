@@ -5,6 +5,7 @@ file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/c
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Project Documentation
 uid: c1aa2485-cf87-06bc-737d-b88a9085d517
 ---
 Lab exercise on video production.
-

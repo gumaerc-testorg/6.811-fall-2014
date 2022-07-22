@@ -6,6 +6,7 @@ file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: User-Centered Design
 uid: 2e883e07-36aa-ca8c-5fb1-bde6bc531400
 ---
 Lecture presentation on user-centered design, iterative design, user analysis, task analysis, contextual inquiry, and success metrics.
-

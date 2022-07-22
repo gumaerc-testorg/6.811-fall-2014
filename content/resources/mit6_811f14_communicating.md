@@ -6,6 +6,7 @@ file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Disability Communication and Etiquette
 uid: 3e2459c1-89d2-d4ca-4371-973a6d60d349
 ---
 Lecture presentation on etiquette for interacting with people, and about people, who have a disability.
-

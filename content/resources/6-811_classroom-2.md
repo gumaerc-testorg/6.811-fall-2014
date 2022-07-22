@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: 6.811 Classroom 2
 uid: adcff9b1-d6d6-f6bd-4412-86f53a62bb08
 ---
 Photograph of the space used for lab sessions of the course.
-

@@ -6,6 +6,7 @@ file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Mid\xAD-Semester Presentation Instructions"
 uid: 36540d57-6890-9893-ab43-66ed5603e17e
 ---
 Assignment to give a 15-minute presentation showing work on the team project.
-

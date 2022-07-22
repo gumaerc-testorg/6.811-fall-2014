@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/3f91d79eec735dce88a3416504224112_x18bMLW4eO4.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

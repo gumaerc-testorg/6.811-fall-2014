@@ -8,6 +8,7 @@ file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Project Matching and Logistics
 uid: 79b46ff0-0c7c-2afe-7c92-7dcd6eff07f4
 ---
 Lecture presentation on client matching and logistics for a design project in which small teams of students work closely with a person with a disability in the Cambridge area to design a device, piece of equipment, app, or other solution that helps them live more independently.
-

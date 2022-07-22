@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -18,4 +19,3 @@ title: Insights Thumb
 uid: 85dc902e-b0a7-f29e-4a5d-2adf42ba0cea
 ---
 Still image from a video in which William Li and Grace Teo describe various aspects of how they taught 6.811 Principles and Practice of Assistive Technology.
-

@@ -5,6 +5,7 @@ file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/d
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Electronic Access Lab (Part 1) Station B: Alternative Text Input'
 uid: d194d53e-323d-76f9-de8e-97ca996e4db5
 ---
 Lab exercise on alternative text input methods for people with disabilities.
-

@@ -6,6 +6,7 @@ file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/a
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Electronic Access Lab (Part 2) Screen Reader
 uid: a3603f67-be1d-26bd-7b8c-465f9731207f
 ---
 Lab exercise on using screen readers on web pages and mobile devices, and adding metadata to web pages to improve screen reader performance.
-
