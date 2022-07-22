@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, goals, course components, projects, grading, lectures
+  and lab expectations, and an optional textbook for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 4b44c62b-66d6-9cc8-1ce8-9851dc8aeb60
 ---
