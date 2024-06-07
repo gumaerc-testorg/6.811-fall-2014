@@ -11,7 +11,7 @@ uid: 93006bd3-39e1-f7b8-55d5-4958641b37da
 ---
 ## Course Overview
 
-This page focuses on the course _6.811 Principles and Practice of Assistive Technology_ (PPAT) as it was taught by William Li, Grace Teo, and Prof. Robert Miller in Fall 2014.
+This page focuses on the course *6.811 Principles and Practice of Assistive Technology* (PPAT) as it was taught by William Li, Grace Teo, and Prof. Robert Miller in Fall 2014.
 
 PPAT is an interdisciplinary, project-based course in which small teams of students work closely with a person with a disability in the Cambridge area to design a device, piece of equipment, app, or other solution that helps the client live more independently. Over the course of the term, each team meets with its client, iterates through multiple prototypes, and learns about the challenges and realities of designing assistive technologies for people with disabilities. The course also includes lectures on principles of successful Assistive Technology design, perspectives from people with disabilities and Assistive Technology makers and users, design processes and human factors, and social, economic, and ethical perspectives on disability.
 
@@ -25,30 +25,30 @@ PPAT is an interdisciplinary, project-based course in which small teams of stude
 
 ## Meet the Instructors
 
-_In the following video, the instructors introduce themselves and share how their interests and experiences led them to become involved with the course._
+*In the following video, the instructors introduce themselves and share how their interests and experiences led them to become involved with the course.*
 
-{{% resource_link d7f717f0-c971-35f4-a9cc-ec241422b6b3 "Instructor Interview: Meet the Educators" %}}
+{{% resource_link "d7f717f0-c971-35f4-a9cc-ec241422b6b3" "Instructor Interview: Meet the Educators" %}}
 
 ## Instructor Interview
 
-_In the following videos, William Li and Grace Teo describe various aspects of how they taught 6.811 Principles and Practice of Assistive Technology._
+*In the following videos, William Li and Grace Teo describe various aspects of how they taught 6.811 Principles and Practice of Assistive Technology.*
 
-- {{% resource_link a16864fb-1240-56e3-f162-8cdb0d5db59f "Instructor Interview: Course History" %}}
-- {{% resource_link 8740f72d-659f-09c4-b3b8-22bd80341689 "Instructor Interview: Collaborating with Clients" %}}
-- {{% resource_link 60a41d13-91e6-7773-5954-879c5751d446 "Instructor Interview: The Role of Mentors" %}}
-- {{% resource_link 7148e445-2d5a-d789-89af-e03d72e557c9 "Instructor Interview: Teaching Students to Learn from Failure" %}}
-- {{% resource_link 28d1f6f0-d8bd-cd80-bea4-84a8ec7c914b "Instructor Interview: Assessing Students’ Learning" %}}
-- {{% resource_link 10445132-0cdd-3530-0394-3951b9fc0742 "Instructor Interview: Making Learning Public" %}}
-- {{% resource_link 262ce256-0df9-912c-4b1d-65e81e595758 "Instructor Interview: Advice for Educators" %}}
-- {{% resource_link 62e4c463-7cc1-fa86-2da7-e44d29a814c2 "Instructor Interview: Learning About Being an Educator" %}}
+- {{% resource_link "a16864fb-1240-56e3-f162-8cdb0d5db59f" "Instructor Interview: Course History" %}}
+- {{% resource_link "8740f72d-659f-09c4-b3b8-22bd80341689" "Instructor Interview: Collaborating with Clients" %}}
+- {{% resource_link "60a41d13-91e6-7773-5954-879c5751d446" "Instructor Interview: The Role of Mentors" %}}
+- {{% resource_link "7148e445-2d5a-d789-89af-e03d72e557c9" "Instructor Interview: Teaching Students to Learn from Failure" %}}
+- {{% resource_link "28d1f6f0-d8bd-cd80-bea4-84a8ec7c914b" "Instructor Interview: Assessing Students’ Learning" %}}
+- {{% resource_link "10445132-0cdd-3530-0394-3951b9fc0742" "Instructor Interview: Making Learning Public" %}}
+- {{% resource_link "262ce256-0df9-912c-4b1d-65e81e595758" "Instructor Interview: Advice for Educators" %}}
+- {{% resource_link "62e4c463-7cc1-fa86-2da7-e44d29a814c2" "Instructor Interview: Learning About Being an Educator" %}}
 
 ## Student Interviews
 
-_In the following videos, students share insights about their experiences in 6.811 Principles and Practice of Assistive Technology._
+*In the following videos, students share insights about their experiences in 6.811 Principles and Practice of Assistive Technology.*
 
-- {{% resource_link 960dd937-6200-b9e6-3f67-5726c3a80ebd "Team Aaron" %}}
-- {{% resource_link 6286ae14-bea8-6fc7-7e94-599a765c5bbc "Team Beverly Ann" %}}
-- {{% resource_link 9d1283dc-f92a-82d6-dbe7-ce3fd54a9d96 "Team Chris" %}}
+- {{% resource_link "960dd937-6200-b9e6-3f67-5726c3a80ebd" "Team Aaron" %}}
+- {{% resource_link "6286ae14-bea8-6fc7-7e94-599a765c5bbc" "Team Beverly Ann" %}}
+- {{% resource_link "9d1283dc-f92a-82d6-dbe7-ce3fd54a9d96" "Team Chris" %}}
 
 ## Curriculum Information
 
@@ -58,7 +58,7 @@ Permission of instructor
 
 ### Requirements Satisfied
 
-6.811 satisfies one of two [Advanced Undergraduate Study](https://www.eecs.mit.edu/academics-admissions/academic-information/subject-updates-ft-2013/6811) requirements, and one lab requirement in the [Department of Electrical Engineering and Computer Science](http://www.eecs.mit.edu/).
+6.811 satisfies one of two [Advanced Undergraduate Study](https://catalog.mit.edu/degree-charts/eecs-subject-groupings/#advancetext) requirements, and one lab requirement in the [Department of Electrical Engineering and Computer Science](http://www.eecs.mit.edu/).
 
 ### Offered
 
@@ -76,11 +76,11 @@ The students' grades were based on the following activities:
 
 ### Rubrics
 
-The instructors used a {{% resource_link c7ba419e-b082-46c3-ac07-ed1e37a5ae7f "rubric to assess students’ blog posts (PDF)" %}}. Guest panelists used an {{% resource_link 38258428-b96a-5ce3-e4a6-9f9f8f26d801 "evaluation form to assess students’ mid- and final-semester presentations (PDF)" %}}. Clients used an {{% resource_link 77aab7d6-cbcc-60de-3ae0-78c722ffca04 "assessment guide to provide students with feedback (PDF)" %}} about their work in the course.
+The instructors used a {{% resource_link "c7ba419e-b082-46c3-ac07-ed1e37a5ae7f" "rubric to assess students’ blog posts (PDF)" %}}. Guest panelists used an {{% resource_link "38258428-b96a-5ce3-e4a6-9f9f8f26d801" "evaluation form to assess students’ mid- and final-semester presentations (PDF)" %}}. Clients used an {{% resource_link "77aab7d6-cbcc-60de-3ae0-78c722ffca04" "assessment guide to provide students with feedback (PDF)" %}} about their work in the course.
 
 ### Instructor Insights on Assessment
 
-{{% resource_link 28d1f6f0-d8bd-cd80-bea4-84a8ec7c914b "Instructor Interview: Assessing Student's Learning" %}}
+{{% resource_link "28d1f6f0-d8bd-cd80-bea4-84a8ec7c914b" "Instructor Interview: Assessing Student's Learning" %}}
 
 ## Student Information
 
