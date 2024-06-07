@@ -2,6 +2,7 @@
 content_type: resource
 description: Lab exercise on head tracking and eye tracking assistive technologies.
 file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/9c6911803d6dbdb571c8a994c7b88371_MIT6_811F14_HeadTracker.pdf
+file_size: 718959
 file_type: application/pdf
 learning_resource_types:
 - Labs
