@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/c8f99592250e1be50c12959b1fe42820_x18bMLW4eO4.pdf
+file_size: 195374
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

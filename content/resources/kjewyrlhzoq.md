@@ -4,6 +4,7 @@ description: Subtitle file for a video. In this video students share insights ab
   their experience developing an iPhone mount for a wheelchair as part of the team
   project for the course.
 file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/242eb05a31ef222b56b524f3893603f2_kJEwyrLHZoQ.srt
+file_size: 9969
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
