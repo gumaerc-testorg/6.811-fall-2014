@@ -2,6 +2,7 @@
 content_type: resource
 description: Image showing the number of students enrolled in the course.
 file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/3468a587ba271a4f5ced6d072b33c6c6_6-811_stat-students.png
+file_size: 2852
 file_type: image/png
 image_metadata:
   caption: ''
