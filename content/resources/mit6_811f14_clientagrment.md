@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Form used to help student team members and clients agree on their expectations
   for working together. '
-file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/f4a87aa5299c6a17f7ed1c9cacbe0878_MIT6_811F14_ClientAgrment.pdf
+file: /ol-ocw-studio-app/courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/f4a87aa5299c6a17f7ed1c9cacbe0878_MIT6_811F14_ClientAgrment.pdf
 file_size: 122043
 file_type: application/pdf
 learning_resource_types:
