@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/e89e60d0f29b6557e189146092d2ad84_x18bMLW4eO4.srt
+file: /ol-ocw-studio-app/courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/e89e60d0f29b6557e189146092d2ad84_x18bMLW4eO4.srt
 file_size: 227403
 file_type: application/x-subrip
 learning_resource_types: []
