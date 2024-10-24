@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment to give a 15-minute presentation showing work on the team
   project.
-file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/36540d5768909893ab4366ed5603e17e_MIT6_811F14_MidSemstrPres.pdf
+file: /ol-ocw-studio-app/courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/36540d5768909893ab4366ed5603e17e_MIT6_811F14_MidSemstrPres.pdf
 file_size: 173514
 file_type: application/pdf
 learning_resource_types:
