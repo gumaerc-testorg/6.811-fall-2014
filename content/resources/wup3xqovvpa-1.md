@@ -2,7 +2,7 @@
 content_type: resource
 description: Transcript of a video offering instructor insights on choosing and collaborating
   with clients for the course project.
-file: /ol-ocw-studio-app/courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/08d6afa2ebe92c81c3ccfc1d6b5967ba_Wup3xqOvvpA.pdf
+file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/08d6afa2ebe92c81c3ccfc1d6b5967ba_Wup3xqOvvpA.pdf
 file_size: 20609
 file_type: application/pdf
 learning_resource_types: []

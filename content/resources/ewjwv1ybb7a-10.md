@@ -2,7 +2,7 @@
 content_type: resource
 description: Subtitle file for a mid-semester presentation on a team project to develop
   assistive technology for a person with disability.
-file: /ol-ocw-studio-app/courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/a89bd0e23a4f488f341a52d4743af1b4_EWjWv1YBB7A.srt
+file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/a89bd0e23a4f488f341a52d4743af1b4_EWjWv1YBB7A.srt
 file_size: 295617
 file_type: application/x-subrip
 learning_resource_types: []

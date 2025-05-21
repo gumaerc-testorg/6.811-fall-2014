@@ -2,7 +2,7 @@
 content_type: resource
 description: Subtitle file for a video offering instructor insights on choosing and
   collaborating with clients for the course project.
-file: /ol-ocw-studio-app/courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/08790571f8d616f1c8af36787ed31a88_Wup3xqOvvpA.srt
+file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/08790571f8d616f1c8af36787ed31a88_Wup3xqOvvpA.srt
 file_size: 13064
 file_type: application/x-subrip
 learning_resource_types: []

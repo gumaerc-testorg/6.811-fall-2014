@@ -2,7 +2,7 @@
 content_type: resource
 description: Lab exercise on what it is like to live with cognitive disabilities affecting
   focus, attention, and language.
-file: /ol-ocw-studio-app/courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/8faa48b00c0313a7e042722bfc2c9d37_MIT6_811F14_CongitiveDisb.pdf
+file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/8faa48b00c0313a7e042722bfc2c9d37_MIT6_811F14_CongitiveDisb.pdf
 file_size: 825499
 file_type: application/pdf
 learning_resource_types:
