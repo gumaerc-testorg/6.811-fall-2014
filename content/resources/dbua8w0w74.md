@@ -2,7 +2,7 @@
 content_type: resource
 description: Subtitle file for a video providing instructor insights on the history
   of the course.
-file: /ol-ocw-studio-app/courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/84e10dce4a9462970e3cdd3510c14dbc_DbUa8w0W74.srt
+file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/84e10dce4a9462970e3cdd3510c14dbc_DbUa8w0W74.srt
 file_size: 5287
 file_type: application/x-subrip
 learning_resource_types: []

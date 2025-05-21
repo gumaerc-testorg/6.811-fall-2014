@@ -2,7 +2,7 @@
 content_type: resource
 description: Subtitle file for a video of an instructor interview on assessing student's
   learning.
-file: /ol-ocw-studio-app/courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/08c7193331f9df878115e078f9622a3a_ZjLZ_P8svSY.srt
+file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/08c7193331f9df878115e078f9622a3a_ZjLZ_P8svSY.srt
 file_size: 10012
 file_type: application/x-subrip
 learning_resource_types: []

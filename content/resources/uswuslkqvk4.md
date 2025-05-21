@@ -2,7 +2,7 @@
 content_type: resource
 description: Subtitle file for a video of an instructor interview on teaching students
   to learn from failure.
-file: /ol-ocw-studio-app/courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/ec8ce3f5c5a1f9004f447d9e270b815b_UswuSLKQVK4.srt
+file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/ec8ce3f5c5a1f9004f447d9e270b815b_UswuSLKQVK4.srt
 file_size: 5734
 file_type: application/x-subrip
 learning_resource_types: []

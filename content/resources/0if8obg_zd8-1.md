@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Transcript of a video of an instructor interview on making learning public.
-file: /ol-ocw-studio-app/courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/a044d079498e79b34160d00066ae73ca_0IF8oBg_Zd8.pdf
+file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/a044d079498e79b34160d00066ae73ca_0IF8oBg_Zd8.pdf
 file_size: 15012
 file_type: application/pdf
 learning_resource_types: []
