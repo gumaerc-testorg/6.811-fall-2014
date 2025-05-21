@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation with an introduction to the course and information
   on goals, logistics, and course projects.
-file: /ol-ocw-studio-app/courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/11494623dc05af5f759a1c118487453a_MIT6_811F14_Introduction.pdf
+file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/11494623dc05af5f759a1c118487453a_MIT6_811F14_Introduction.pdf
 file_size: 711463
 file_type: application/pdf
 learning_resource_types:
