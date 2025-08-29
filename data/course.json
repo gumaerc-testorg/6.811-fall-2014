@@ -52,7 +52,6 @@
   "learning_resource_types": [
     "Lecture Notes",
     "Projects with Examples",
-    "Course Introduction",
     "Demonstration Videos",
     "Activity Assignments with Examples",
     "Media Assignments with Examples",
@@ -61,5 +60,6 @@
   ],
   "site_uid": "7d4b6754-a2ed-48b4-b10b-8f6bbc9504d1",
   "site_short_id": "6.811-fall-2014",
+  "site_url_path": "courses/6-811-principles-and-practice-of-assistive-technology-fall-2014",
   "title": "Course Metadata"
 }

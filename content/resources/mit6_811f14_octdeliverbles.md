@@ -2,7 +2,7 @@
 content_type: resource
 description: A list of deliverables for the second month of the course.
 draft: false
-file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/98b814fb226256df18674ee5c42c88e5_MIT6_811F14_OctDeliverbles.pdf
+file: /ol-ocw-studio-app/courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/98b814fb226256df18674ee5c42c88e5_MIT6_811F14_OctDeliverbles.pdf
 file_size: 599870
 file_type: application/pdf
 image_metadata:
