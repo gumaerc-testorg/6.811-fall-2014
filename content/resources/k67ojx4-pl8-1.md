@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Transcript of a video on the role of student mentors for the course.
-file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/3ae1bf25d3237db87c6f1e69a980df00_K67ojX4-PL8.pdf
+file: /ol-ocw-studio-app/courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/3ae1bf25d3237db87c6f1e69a980df00_K67ojX4-PL8.pdf
 file_size: 11194
 file_type: application/pdf
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: Transcript of a video providing instructor insights on the history of
   the course.
-file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/8ccc1eda762315871574c5e349584565_DbUa8w0W74.pdf
+file: /ol-ocw-studio-app/courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/8ccc1eda762315871574c5e349584565_DbUa8w0W74.pdf
 file_size: 15201
 file_type: application/pdf
 learning_resource_types: []

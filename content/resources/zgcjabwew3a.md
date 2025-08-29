@@ -2,7 +2,7 @@
 content_type: resource
 description: Subtitle file for a video of an instructor interview providing advice
   for teachers.
-file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/f43c7828eb889662b0a150916bac3a31_ZGCJabWew3A.srt
+file: /ol-ocw-studio-app/courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/f43c7828eb889662b0a150916bac3a31_ZGCJabWew3A.srt
 file_size: 9308
 file_type: application/x-subrip
 learning_resource_types: []

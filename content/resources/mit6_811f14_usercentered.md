@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture presentation on user-centered design, iterative design, user\
   \ analysis, task analysis,\_contextual inquiry, and success metrics."
-file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/2e883e0736aaca8c5fb1bde6bc531400_MIT6_811F14_UserCentered.pdf
+file: /ol-ocw-studio-app/courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/2e883e0736aaca8c5fb1bde6bc531400_MIT6_811F14_UserCentered.pdf
 file_size: 1012819
 file_type: application/pdf
 learning_resource_types:
