@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Lab exercise on alternative text input methods for people with disabilities.
-file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/d194d53e323d76f9de8e97ca996e4db5_MIT6_811F14_AltrnativText.pdf
+file: /ol-ocw-studio-app/courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/d194d53e323d76f9de8e97ca996e4db5_MIT6_811F14_AltrnativText.pdf
 file_size: 243838
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
