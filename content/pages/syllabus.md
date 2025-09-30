@@ -153,4 +153,4 @@ This year, we aim to have lively discussions, debates, and other activities abou
 Textbook (Optional)
 -------------------
 
-Cook, Albert M., and Jan Miller Polgar. _Cook & Hussey's Assistive Technologies: Principles and Practice_. 3rd ed. Mosby Elsevier, 2007. ISBN: 9780323039079. \[Preview with [Google Books](http://books.google.com/books?id=FZ1sAAAAQBAJ&pg=PAfrontcover)\]
+Cook, Albert M., and Jan Miller Polgar. _Cook & Hussey's Assistive Technologies: Principles and Practice_. 3rd ed. Mosby Elsevier, 2007. ISBN: 9780323039079. \[Preview with {{% resource_link "bdbe1947-8879-4b04-8089-f32cc4b99560" "Google Books" %}}\]
